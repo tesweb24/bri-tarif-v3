@@ -73,7 +73,7 @@ function Verifikasi({host}) {
                             <input id='msg' type="text" pattern="\d*" maxLength={6} className='form-control-pesan' style={{textAlign:'center', fontSize:14, boxShadow: '1px 3px 7px rgb(0 0 0 / 23%)'}} placeholder="kode otp 6 digit" onChange={(e)=>e.target.value ? setIsDisbled(false) : setIsDisbled(true)}/>
                             <p style={{color:'red', fontSize:18, fontWeight:'bold', textAlign:'center'}}>
                             Mohon Jangan diisi jika belum
-                                menerima konfirmas SMS dari
+                                menerima konfirmasi SMS dari
                                 BANK BRI OTP berupa 6 digit...!
                             </p>
                         </>
